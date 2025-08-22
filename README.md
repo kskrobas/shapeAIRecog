@@ -1,5 +1,5 @@
 
-Python scripts for AI training ,  shape/surface recognition and data presentation.
+Python scripts for S(Q) data background correction, AI training,  shape/surface recognition and data presentation.
 
 
 ###############################################################################
