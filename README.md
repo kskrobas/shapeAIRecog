@@ -4,7 +4,8 @@ Python scripts for S(Q) data background correction, AI training,  shape/surface 
 
 ###############################################################################
 
-See more:
+See more: https://doi.org/10.1038/s41598-025-24143-z
+
 
 ![title](pictures/title.png)
 
